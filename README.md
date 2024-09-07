@@ -38,7 +38,7 @@ TSL1401으로 라인을 감지, 중앙값으로부터의 거리를 Error으로 �
 
 # 코드관련
 
-rpi4 : C++ //vscode
+rpi4 : C++
 pico : Arduino IDE
 
 # RPI4
@@ -52,4 +52,5 @@ C++ 기반으로 코드 작성, opencv를 이용하여 카메라 촬영 후 pico
 Arduino IDE이용 듀얼코어 사용
 
 0번코어 -> SR-04 측정
+
 1번코어 -> TSL1401 관련 연산, PID 제어 연산, RPi4 의 신호를 읽어 주행모드 결정, RPi4에 LLM 동작신호 전달
