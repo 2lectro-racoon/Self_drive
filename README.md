@@ -39,6 +39,7 @@ TSL1401으로 라인을 감지, 중앙값으로부터의 거리를 Error으로 �
 # 코드관련
 
 rpi4 : C++
+
 pico : Arduino IDE
 
 # RPI4
