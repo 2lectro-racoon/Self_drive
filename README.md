@@ -6,19 +6,19 @@
 
 # 사용 부품 리스트
 
-|:부품명:|:수량:|:용도:|
-|------|------|------|
-|:emax eco 1106:|:2:|:구동모터:|
-|:emax bullet 12A:|:2:|:BLDC esc:|
-|:Raspberry pi 4:|:1:|:메인 MCU:|
-|:Raspberry pi pico:|:1:|:센서 MCU:|
-|:TSL1401:|:1:|:Line Scan:|
-|:picam v2:|:1:|:Object Scan:|
-|:SR-04:|:1:|Emergency Stop:|
-|:2S Lipo battery:|:1:|:Motor Power:|
-|:5V 4A UPS:|:1:|:MCU Power:|
-|:18650 2000mA:|:2:|MCU Power:|
-|:5V LED:|:2:|:mission:|
+| 부품명           | 수량 | 용도          |
+|:-----------------|:----:|:--------------|
+| emax eco 1106    |  2   | 구동모터      |
+| emax bullet 12A  |  2   | BLDC esc      |
+| Raspberry pi 4   |  1   | 메인 MCU      |
+| Raspberry pi pico|  1   | 센서 MCU      |
+| TSL1401          |  1   | Line Scan     |
+| picam v2         |  1   | Object Scan   |
+| SR-04            |  1   | Emergency Stop|
+| 2S Lipo battery  |  1   | Motor Power   |
+| 5V 4A UPS        |  1   | MCU Power     |
+| 18650 2000mA     |  2   | MCU Power     |
+| 5V LED           |  2   | mission       |
 
 # 주행로직
 
